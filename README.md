@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+![image](https://github.com/robertlisaru/AgileFreaks-coffee-shops-app-test/assets/40792547/b92821fd-c4bc-44fc-acfc-92c36129f146)
+
+## Agile Freaks todos challenge, 2021
+A frontend React webapp that manages (create, read, update, delete) a list of "to do" items, connected to a `json-api` backend server.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
